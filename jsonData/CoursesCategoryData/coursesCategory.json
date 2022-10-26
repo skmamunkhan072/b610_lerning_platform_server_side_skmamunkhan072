@@ -1,0 +1,56 @@
+[
+  {
+    "coursesName": "web development",
+    "coursesId": "1",
+    "images": "https://i.ibb.co/vj7fYyt/Web-Development.jpg",
+    "prices": 4675
+  },
+  {
+    "coursesName": "Graphics design",
+    "coursesId": "2",
+    "images": "https://i.ibb.co/5TPhmmk/Graphics-Design.jpg",
+    "prices": 404
+  },
+  {
+    "coursesName": "Front end developer",
+    "coursesId": "3",
+    "images": "https://i.ibb.co/FKB87zW/Front-end-developer.jpg",
+    "prices": 300
+  },
+  {
+    "coursesName": "Wordpress developer ",
+    "coursesId": "4",
+    "images": "https://i.ibb.co/6HMkrZ0/Wordpress.png",
+    "prices": 320
+  },
+  {
+    "coursesName": "Photoshop design",
+    "coursesId": "5",
+    "images": "https://i.ibb.co/v3Z841B/Photoshop.jpg",
+    "prices": 172
+  },
+  {
+    "coursesName": "Figma design",
+    "coursesId": "6",
+    "images": "https://i.ibb.co/kHwkt9v/Figma.png",
+    "prices": 496
+  },
+  {
+    "coursesName": "React",
+    "coursesId": "7",
+    "images": "https://i.ibb.co/cbz59qd/React.png",
+    "prices": 731
+  },
+  {
+    "coursesName": "Bootstrap Css Framework",
+    "coursesId": "8",
+    "images": "https://i.ibb.co/zVpPRCZ/Bootstrap.jpg",
+    "prices": 328
+  },
+  {
+    "coursesName": "Tailwind Css Framework",
+    "coursesId": "9",
+    "images": "https://i.ibb.co/vmzftzm/Tailwind.png",
+    "prices": 978
+  }
+]
