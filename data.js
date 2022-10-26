@@ -19,17 +19,19 @@
     categoryId: 2,
   },
   {
-    categoryName: "HTML",
+    categoryName: "Complete HTML & CSS: Learn Web Development with HTML & CSS ",
     id: "8cafa985-2297-3519-8560-148101de6a76",
-    categoryDitails: "zulauf.frances",
+    categoryDitails:
+      "n today’s world, more and more people want to learn some HTML and CSS. Joining the professional web designers and programmers are new audiences who are required to know a little bit of code at work and also those who want to make their personal blogs and websites more attractive. Many courses teaching HTML and CSS are dry and only created for those who want to become programmers, which is why this course takes an entirely new approach.",
     categoryImage: "vel",
     Number: "469-205-4757",
     categoryId: 3,
   },
   {
-    categoryName: "Single page application",
+    categoryName: "Learn How to Create and ECOMMERCE Website with Wordpress",
     id: "9de2eeba-3599-316f-979b-b82779c09547",
-    categoryDitails: "rudolph25",
+    categoryDitails:
+      "Create An eCommerce Website From Scratch With No Experience! - Top Rated Instructor.Create and Customize any Wordpress WebsiteHave an Online StoreSell any type of productsBe a Wordpress ExpertMake MoneyWhy Take This AMAZING Course?Master eCommerce. Learn About all products and woocommerce options!Use BESTWooCommerce Theme Available!Get aModernAndAmazingLook For Your Website That Will Impress!Learn From A Professional Who Creates Websites For a Living with over 6,000 Visits!THE MOST UPDATE AND MODERN TUTORIAL. Dont Settle For Outdated Content!",
     categoryImage: "tempora",
     Number: "507-594-5128",
     categoryId: 4,
@@ -53,9 +55,10 @@
     categoryId: 6,
   },
   {
-    categoryName: "aut",
+    categoryName: "Front-End Web Development with React",
     id: "f7459bd9-8b39-3524-b04e-e959fa7d18b6",
-    categoryDitails: "erica73",
+    categoryDitails:
+      "his course explores Javascript based front-end application development, and in particular the React library (Currently Ver. 16.3). This course will use JavaScript ES6 for developing React application. You will also get an introduction to the use of Reactstrap for Bootstrap 4-based responsive UI design. You will be introduced to various aspects of React components. You will learn about React router and its use in developing single-page applications. You will also learn about designing controlled forms. You will be introduced to the Flux architecture and Redux. You will explore various aspects of Redux and use it to develop React-Redux powered applications. You will then learn to use Fetch for client-server communication and the use of REST API on the server side. A quick tour through React animation support and testing rounds off the course.",
     categoryImage: "aut",
     Number: "1-959-206-5341",
     categoryId: 7,
@@ -79,17 +82,19 @@
     categoryId: 9,
   },
   {
-    categoryName: "css and css framework",
+    categoryName: "Build a Website with HTML, CSS, and Github Pages",
     id: "5f50c390-8a22-3d26-9c8a-9e09d620826f",
-    categoryDitails: "melyssa.nolan",
+    categoryDitails:
+      "One of the best ways to start coding is by building websites. Whether you want to tweak your business’s site, hone your web development skills, or learn to collaborate with developers, this Skill Path will help you get there.",
     categoryImage: "quia",
     Number: "435.344.2508",
     categoryId: 3,
   },
   {
-    categoryName: "xd photoshop",
+    categoryName: "Free Canva Graphics Design Course",
     id: "94fbd31d-44b8-34c9-8526-64ec32e956fe",
-    categoryDitails: "lesley.mosciski",
+    categoryDitails:
+      "Syllabus: How To Use Canva? Free Graphics Designing Tool (Updated 2021) #1.How to Design a YouTube Thumbnail with Canva #2.How To Edit Videos in Canva? (100 % Free Video Editing Tool) #3.How to Make PPT Presentation in Canva Tool (100 % Free &amp; Easy)",
     categoryImage: "voluptatem",
     Number: "+1.803.462.9503",
     categoryId: 2,
@@ -104,9 +109,10 @@
     categoryId: 5,
   },
   {
-    categoryName: "eum",
+    categoryName: "Developing Cloud Apps with Node.js and React",
     id: "b167486a-fb0f-374b-876f-eda313ae7a6d",
-    categoryDitails: "madge44",
+    categoryDitails:
+      "In this course, you will focus on server-side JavaScript and frameworks. You will discover ways to make development faster and easier in web browsers and embedded systems. You may ask, what is the relevance of developing cloud applications with Node.js and React?",
     categoryImage: "veniam",
     Number: "+1-228-463-2964",
     categoryId: 7,
@@ -130,9 +136,10 @@
     categoryId: 1,
   },
   {
-    categoryName: "dolores",
+    categoryName: "Complete React Tutorial (with Redux)",
     id: "b75e58df-ff4a-352c-8025-cf8129a85a03",
-    categoryDitails: "icummerata",
+    categoryDitails:
+      "In this complete React tutorial series, we'll cover all the basics of React, from the ground up, right through to creating full SPA's using Create React App, the React Router (v4) and Redux.",
     categoryImage: "ratione",
     Number: "+12764270956",
     categoryId: 7,
@@ -175,17 +182,19 @@
     categoryId: 1,
   },
   {
-    categoryName: "Ai photoshop",
+    categoryName: "3D House Design Mastery in Blender 3x - Graphics & Design ",
     id: "1a3ab648-10fb-3c32-a233-a6adf0f07588",
-    categoryDitails: "fredrick.littel",
+    categoryDitails:
+      "Welcome to the course 3D house design mastery in blender. Throughout this course you'll be learning how to create 2D designs and create a photo realistic modern house model. This is a great skill to have especially for 3D artists creating their own works and those who want to create architectural structures and models. We begin by creating the different 2D views of our design, an essential step for accurately capturing your ideas and designs while helping to eliminate any design issues or problems that may arise. The next step is to take our comprehensive set of 2D designs and begin the 3D modelling part of this project.",
     categoryImage: "qui",
     Number: "360.663.8101",
     categoryId: 2,
   },
   {
-    categoryName: "quo",
+    categoryName: "Learn How to Make A WordPress Website 2022",
     id: "b1bfaea6-143e-38ba-a008-c769e505015a",
-    categoryDitails: "dakota05",
+    categoryDitails:
+      "Create a WordPress Website Step by Step - DRAG AND DROPThis course will walk you through everything you need to know to get a WordPress website up and running. Save thousands of dollars Learn how the INs and OUTs of WordPress Step by step tutorial to set up your website Gain total control of your website for easy access and updates We will walk you through everything from how to register a domain and get hosting to creating your very own Wordpress website!!  Learn how to build your own websites for freeby watching this video tutorial on How to Make a Wordpress Website  ",
     categoryImage: "odit",
     Number: "(838) 995-1389",
     categoryId: 4,
@@ -200,9 +209,10 @@
     categoryId: 6,
   },
   {
-    categoryName: "aut",
+    categoryName: "Become a React Developer",
     id: "61f5cb65-9e74-33e7-a293-0721c54591b2",
-    categoryDitails: "vschaefer",
+    categoryDitails:
+      "Become a successful React developer by learning to build declarative user interfaces for the web with React and manage state more predictably in your applications with Redux.",
     categoryImage: "dolores",
     Number: "717-579-2789",
     categoryId: 7,
@@ -262,9 +272,10 @@
     categoryId: 1,
   },
   {
-    categoryName: "dolorem",
+    categoryName: "WordPress İnternet Sitesi Kurmak: Blog, E-Ticaret, Kurumsal",
     id: "5ac6edcc-dcee-39a1-b640-04dde1f970ee",
-    categoryDitails: "stamm.elinore",
+    categoryDitails:
+      "Kod bilmeye gerek yok! WordPress ile istediğiniz türde siteyi nasıl yapacağınızı öğrenin. Takıldığınız yerde bize sorunAlan adı ve hosting alıp daha ilk derslerden kendi internet siteni kuracaksın. Bilgisayarına ücretsiz olarak WordPress kurup uygulamalar yapacaksın. Kendi E-ticaret siteni kurup istediğin ürünleri internetten satabileceksin. Kimseden destek almadan kurumsal siteni kendin kurabileceksin. Kendi blogunu kendi adınla açabileceksin. Önceden kurulmuş WordPress sitelerin üzerinde istediğin değişiklikleri yapabileceksin.",
     categoryImage: "cupiditate",
     Number: "380-377-9803",
     categoryId: 4,
@@ -335,15 +346,17 @@
   {
     categoryName: "JavaScript",
     id: "742460b7-a9e4-360c-95f1-25c8b58d6514",
-    categoryDitails: "kenneth.jerde",
+    categoryDitails:
+      "What is JavaScript? JavaScript (often shortened to JS) is a lightweight, interpreted, object-oriented language with first-class functions, and is best known as the scripting language for Web pages, but it's used in many non-browser environments as well.",
     categoryImage: "hic",
     Number: "+1-253-637-2292",
     categoryId: 3,
   },
   {
-    categoryName: "User create",
+    categoryName: "How to Make a Wordpress Website - Step by Step!!",
     id: "31035446-80a7-385b-8393-4541269f6760",
-    categoryDitails: "heller.camilla",
+    categoryDitails:
+      "A complete step by step wordpress tutorial! Learn how to use WordPress to develop and build a website from scratch.This course is a step by step tutorial that shows you how to makea website from scratch. You do NOTneed to know any type of coding or programming whatsoever. I'll give you all the tools and guidance you need to build abeautiful Wordpress website yourself. ",
     categoryImage: "aperiam",
     Number: "1-319-908-4796",
     categoryId: 4,
@@ -367,9 +380,10 @@
     categoryId: 2,
   },
   {
-    categoryName: "Business Page Application",
+    categoryName: "WordPress for Beginners - Understand WordPress Quickly",
     id: "285eaa49-6dd2-3f9b-8ef9-ddd76e611b80",
-    categoryDitails: "ortiz.chris",
+    categoryDitails:
+      "Learn how to work with WordPress and develop a website using AIT WordPress Themes. No coding or experience required. This class presents the basics of working with WordPress and offers practical screencast tutorials to teach you how to use our themes whe",
     categoryImage: "sit",
     Number: "224-391-9402",
     categoryId: 4,
