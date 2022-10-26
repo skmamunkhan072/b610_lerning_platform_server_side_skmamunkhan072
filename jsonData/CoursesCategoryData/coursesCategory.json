@@ -1,56 +1,74 @@
 [
   {
     "coursesName": "web development",
-    "coursesId": "1",
-    "images": "https://i.ibb.co/vj7fYyt/Web-Development.jpg",
-    "prices": 4675
+    "coursesId": 1,
+    "images": "https://i.postimg.cc/4KJPBgsR/Web-Development.jpg",
+    "prices": 4675,
+    "discription": "Here we provide you with a structured course that will teach you all you need to know to become a web development.",
+    "rating": "4.5"
   },
   {
     "coursesName": "Graphics design",
-    "coursesId": "2",
-    "images": "https://i.ibb.co/5TPhmmk/Graphics-Design.jpg",
-    "prices": 404
+    "coursesId": 2,
+    "images": "https://i.postimg.cc/HVqbPC0P/Graphics-Design.jpg",
+    "prices": 404,
+    "discription": "Graphic Design Masterclass: Learn Graphic Design in Projects",
+    "rating": "5.5"
   },
   {
     "coursesName": "Front end developer",
-    "coursesId": "3",
-    "images": "https://i.ibb.co/FKB87zW/Front-end-developer.jpg",
-    "prices": 300
+    "coursesId": 3,
+    "images": "https://i.postimg.cc/r0xBxTJX/Front-end-developer.jpg",
+    "prices": 300,
+    "discription": "Here we provide you with a structured course that will teach you all you need to know to become a front-end web developer.",
+    "rating": "6.5"
   },
   {
     "coursesName": "Wordpress developer ",
-    "coursesId": "4",
-    "images": "https://i.ibb.co/6HMkrZ0/Wordpress.png",
-    "prices": 320
+    "coursesId": 4,
+    "images": "https://i.postimg.cc/K4nbgPqk/Wordpress.png",
+    "prices": 320,
+    "discription": "WordPress is extremely popular today and is used for business websites, all kinds of personal sites, and various types of blogs. The reason is partly because it is so easy to use.",
+    "rating": "5.5"
   },
   {
     "coursesName": "Photoshop design",
-    "coursesId": "5",
-    "images": "https://i.ibb.co/v3Z841B/Photoshop.jpg",
-    "prices": 172
+    "coursesId": 5,
+    "images": "https://i.postimg.cc/LqTCpsNs/Photoshop.jpg",
+    "prices": 172,
+    "discription": "Graphic Design Masterclass Intermediate: The NEXT Level",
+    "rating": "3.5"
   },
   {
     "coursesName": "Figma design",
-    "coursesId": "6",
+    "coursesId": 6,
     "images": "https://i.ibb.co/kHwkt9v/Figma.png",
-    "prices": 496
+    "prices": 496,
+    "discription": "Figma is the only platform that brings together powerful design features you already love and a more efficient workflow to boot.",
+    "rating": "4.0"
   },
   {
     "coursesName": "React",
-    "coursesId": "7",
-    "images": "https://i.ibb.co/cbz59qd/React.png",
-    "prices": 731
+    "coursesId": 7,
+    "images": "https://i.postimg.cc/fV7MnxXQ/React.png",
+    "prices": 731,
+    "discription": "Expanding Your JS Skills with React. Get started with React for frontend development.",
+    "rating": "3.2"
   },
   {
     "coursesName": "Bootstrap Css Framework",
-    "coursesId": "8",
-    "images": "https://i.ibb.co/zVpPRCZ/Bootstrap.jpg",
-    "prices": 328
+    "coursesId": 8,
+    "images": "https://i.postimg.cc/6yrQtJJP/Bootstrap.jpg",
+    "prices": 328,
+    "discription": "You’ll learn about Bootstrap’s grid system to construct complex layouts. Then, you’ll style and populate your site using Bootstrap’s utility classes and components.",
+    "rating": "4.0"
   },
   {
     "coursesName": "Tailwind Css Framework",
-    "coursesId": "9",
-    "images": "https://i.ibb.co/vmzftzm/Tailwind.png",
-    "prices": 978
+    "coursesId": 9,
+    "images": "https://i.postimg.cc/PNfymhKW/Tailwind.png",
+    "prices": 978,
+    "discription": "In this course, you will learn about Tailwind CSS. You will learn about setup, HTML template, fonts and colors, margin, padding and borders, Tailwind configuration, custom fonts, flexbox, responsive classes itadi",
+    "rating": "4.0"
   }
 ]
